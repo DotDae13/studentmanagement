@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Student Management</string>
+    <string name="login_text">Login</string>
+    <string name="username_text">Username</string>
+    <string name="password_text">Password</string>
+    <string name="call_to_action_for_signUp">Not yet registered? SignUp Now</string>
+    <string name="sign_up_button_text">Sign Up</string>
+    <string name="patient_details">Patient Details</string>
+    <string name="name">Name</string>
+    <string name="age">Age</string>
+    <string name="sex">Sex</string>
+    <string name="problem_facing">Problem Facing</string>
+    <string name="add">Add</string>
+    <string name="appointments">Appointments</string>
+    <string name="appointment_details">Appointment Details</string>
+    <string name="select_date">Select Date:</string>
+    <string name="appointment_detail">Appointment Details</string>
+    <string name="add_appointment">Add Appointment</string>
+</resources>
